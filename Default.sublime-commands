@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "CakePHP API: Search Selection",
+        "command": "cakephpapi_search_selection"
+    },
+    {
+        "caption": "CakePHP API: Search from Input",
+        "command": "cakephpapi_search_from_input"
+    }
+]
