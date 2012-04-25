@@ -1,0 +1,10 @@
+Search CakePHP API
+==================
+
+Search the CakePHP 2.x API for any selection or input.
+
+Please direct any feedback to @jadb on Twitter or GitHub at https://github.com/jadb/st2-search-cakephp-api.
+
+Thank you for your support.
+
+Jad Bitar (www.jadbitar.com)

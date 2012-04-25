@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "Search CakePHP API",
+            "description": "Search the CakePHP 2.x API for any selection or input.",
+            "author": "Jad Bitar",
+            "homepage": "https://github.com/jadb/st2-search-cakephp-api",
+            "last_modified": "2012-04-25 23:22:31",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://nodeload.github.com/jadb/st2-search-cakephp-api/zipball/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
